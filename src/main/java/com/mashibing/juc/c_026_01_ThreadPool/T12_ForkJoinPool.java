@@ -47,7 +47,6 @@ public class T12_ForkJoinPool {
 				subTask2.fork();
 			}
 
-
 		}
 
 	}
